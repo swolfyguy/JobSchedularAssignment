@@ -1,1 +1,1 @@
-# JobSchedularAssignment
+A Django-based web application that allows users to submit jobs to be processed by a background system. The scheduler handles priority-based execution and provides a dashboard for monitoring job statuses in real-time.
