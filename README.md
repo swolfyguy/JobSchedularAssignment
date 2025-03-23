@@ -83,8 +83,7 @@ A Django-based web application that allows users to submit jobs to be processed 
    python manage.py start_scheduler
    ```
 3. Visit http://127.0.0.1:8000 in your browser
-![img.png](img.png)
-4. ![img_1.png](img_1.png)
+4. ![img.png](img.png)
 ## API Endpoints
 
 - `GET /jobs/api/jobs/` - List all jobs
